@@ -23,4 +23,4 @@ client.on('ready',async () => {
     }
   }
 });
-client.login("Mjg4NDI1MDE1NzM1NzQ2NTYx.Dt9vbQ.f7-hWWmtiatAwflV01wxWX5DYBk");
+client.login("MzQ1NTQzNzQxMTMxNTg3NTg1.Dv2MoQ.qTgG3fGCtVnRv4XKgMsq--AGavI");
