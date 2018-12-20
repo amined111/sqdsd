@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 client.on('ready',async () => {
    let GUILDID = '510402549619228682'; //
-  let CHANNELID = '510403107562455050'; //
+  let CHANNELID = '510407641495896066'; //
 
 
 
